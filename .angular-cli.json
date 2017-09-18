@@ -17,9 +17,9 @@
       "test": "test.ts",
       "tsconfig": "tsconfig.app.json",
       "testTsconfig": "tsconfig.spec.json",
-      "prefix": "app",
+      "prefix": "lt",
       "styles": [
-        "styles.css"
+        "./stylesheet/styles.less"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
